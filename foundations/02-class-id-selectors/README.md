@@ -36,4 +36,4 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - [x] add class `text-medium` to Number 3
 - [x] define style to class `text-medium`: font size of 24px
 - [x] add id `number-4` and class `text-medium` to Number 4
-- [ ] define style to id 4: a light green background, a font size of 24px, and bold
+- [x] define style to id `number-4`: a light green background, a font size of 24px, and bold
