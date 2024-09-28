@@ -22,6 +22,6 @@ This will help you further practice adding classes and using class selectors, so
 
 - [x] add class `black` to first button
 - [x] add class `yellow` to second button
-- [ ] add style to both `black` and `yellow` class: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback
+- [x] add style to both `black` and `yellow` class: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback
 - [ ] add style to `black` class: a black background and white text
 - [ ] add style to `yellow` class: a yellow background
