@@ -29,7 +29,7 @@ The properties you need to add to each element are:
 ### To Do
 
 - [ ] `styles.css` file
-  - [ ] `div`: a red background, white text, a font size of 32px, center aligned, and bold
+  - [x] `div`: a red background, white text, a font size of 32px, center aligned, and bold
   - [ ] Link in `index.html`
 - [ ] `index.html` tag `<style>` inside `<head>`
   - [ ] `p`: a green background, white text, and a font size of 18px
