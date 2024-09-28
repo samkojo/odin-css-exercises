@@ -17,3 +17,11 @@ This will help you further practice adding classes and using class selectors, so
 - Does each element have a unique class name?
 - Did you use the grouping selector for styles that both elements share?
 - Did you make separate rules for the styles unique to each element?
+
+### To Do
+
+- [ ] add class `black` to first button
+- [ ] add class `yellow` to second button
+- [ ] add style to both `black` and `yellow` class: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback
+- [ ] add style to `black` class: a black background and white text
+- [ ] add style to `yellow` class: a yellow background
