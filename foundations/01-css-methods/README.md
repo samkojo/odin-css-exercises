@@ -33,5 +33,5 @@ The properties you need to add to each element are:
   - [x] Link in `index.html`
 - [x] `index.html` tag `<style>` inside `<head>`
   - [x] `p`: a green background, white text, and a font size of 18px
-- [ ] `index.html` in button tag
-  - [ ] `button`: an orange background and a font size of 18px
+- [x] `index.html` in button tag
+  - [x] `button`: an orange background and a font size of 18px
