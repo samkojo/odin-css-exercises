@@ -32,7 +32,7 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - [x] add class `odd` to all `<p>` elements
 - [x] define style to class `odd`: a light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback
 - [x] add id `number-2` to Number 2
-- [ ] define style to id 2: blue text and a font size of 36px
+- [x] define style to id `number-2`: blue text and a font size of 36px
 - [ ] add class `text-medium` to Number 3
 - [ ] define style to class `text-medium`: font size of 24px
 - [ ] add id `number-4` to Number 4
