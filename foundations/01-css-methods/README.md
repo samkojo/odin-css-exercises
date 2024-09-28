@@ -31,7 +31,7 @@ The properties you need to add to each element are:
 - [x] `styles.css` file
   - [x] `div`: a red background, white text, a font size of 32px, center aligned, and bold
   - [x] Link in `index.html`
-- [ ] `index.html` tag `<style>` inside `<head>`
-  - [ ] `p`: a green background, white text, and a font size of 18px
+- [x] `index.html` tag `<style>` inside `<head>`
+  - [x] `p`: a green background, white text, and a font size of 18px
 - [ ] `index.html` in button tag
   - [ ] `button`: an orange background and a font size of 18px
