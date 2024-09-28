@@ -28,9 +28,9 @@ The properties you need to add to each element are:
 
 ### To Do
 
-- [ ] `styles.css` file
+- [x] `styles.css` file
   - [x] `div`: a red background, white text, a font size of 32px, center aligned, and bold
-  - [ ] Link in `index.html`
+  - [x] Link in `index.html`
 - [ ] `index.html` tag `<style>` inside `<head>`
   - [ ] `p`: a green background, white text, and a font size of 18px
 - [ ] `index.html` in button tag
