@@ -24,4 +24,4 @@ The properties you need to add to each element are:
 ### To Do
 
 - [x] add style for `.avatar.proportioned`: classes 300 pixels wide, then give it a height so that it retains its original square proportions (don't hardcode in a pixel value for the height!).
-- [ ] add style for `.avatar.distorted`: classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value).
+- [x] add style for `.avatar.distorted`: classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value).
