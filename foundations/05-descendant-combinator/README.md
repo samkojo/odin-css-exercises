@@ -18,3 +18,7 @@ The properties you need to add are:
 
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
+
+### To Do
+
+- [ ] add style only for `p` elements that are descendants of `div` element: should have a yellow background, red text, a font size of 20px, and center aligned.
