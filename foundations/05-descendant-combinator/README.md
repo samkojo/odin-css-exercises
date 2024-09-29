@@ -21,4 +21,4 @@ The properties you need to add are:
 
 ### To Do
 
-- [ ] add style only for `p` elements that are descendants of `div` element: should have a yellow background, red text, a font size of 20px, and center aligned.
+- [x] add style only for `p` elements that are descendants of `div` element: should have a yellow background, red text, a font size of 20px, and center aligned.
