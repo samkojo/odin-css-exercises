@@ -18,5 +18,5 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 
 - [x] set padding 32px to class `one` and `three`
 - [x] set margin 12px to class `one`
-- [ ] set margin-bottom 48px to class `two`
+- [x] set margin-bottom 48px to class `two`
 - [ ] set margin-left auto to class `three`
