@@ -21,7 +21,7 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 
 ### To Do
 
-- [ ] set padding 8px to `.card`
+- [x] set padding 8px to `.card`
 - [ ] set marging top 8px to all child elements of `.card`
 - [ ] set font-size 16px to `.card .title`
 - [ ] set 8px padding to `.card`
