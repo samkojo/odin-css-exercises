@@ -26,6 +26,6 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - [x] set font-size 16px to `.title`
 - [x] set margin bottom 8px to `.title`
 - [x] set padding 16px top bottom and 8px left right to `.card > .content`
-- [ ] set text align center to `.button-container`
+- [x] set text align center to `.button-container`
 - [ ] set `button` as display block and margin 0 auto
 - [ ] set padding 8px top bottom and 24px left right to `button`
