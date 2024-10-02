@@ -28,4 +28,4 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - [x] set padding 16px top bottom and 8px left right to `.card > .content`
 - [x] set text align center to `.button-container`
 - [x] set display block and margin 0 auto to `button`
-- [ ] set padding 8px top bottom and 24px left right to `button`
+- [x] set padding 8px top bottom and 24px left right to `button`
