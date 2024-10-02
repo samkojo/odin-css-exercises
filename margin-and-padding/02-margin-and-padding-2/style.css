@@ -16,8 +16,9 @@ body {
   margin-bottom: 8px;
 }
 
-.content {
+.card > .content {
   background: #e3f4ff;
+  padding: 16px 8px;
 }
 
 .button-container {
