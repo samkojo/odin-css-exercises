@@ -23,7 +23,7 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 
 - [x] set padding 8px to `.card`
 - [x] set margin top 8px and padding 8px to all child elements of `.card`
-- [ ] set font-size 16px to `.card .title`
+- [x] set font-size 16px to `.title`
 - [ ] set 8px padding to `.card`
 - [ ] set margin bottom 8px to `.card .title`
 - [ ] set padding 16px top bottom and 8px left right to `.card .content`
