@@ -18,3 +18,15 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - Everything inside the `.button-container` section is centered, and there is 8px padding.
 - The Big Button is centered on its own line.
 - The Big Button has 24px space on the sides, and 8px on top and bottom.
+
+### To Do
+
+- [ ] set padding 8px to `.card`
+- [ ] set marging top 8px to all child elements of `.card`
+- [ ] set font-size 16px to `.card .title`
+- [ ] set 8px padding to `.card`
+- [ ] set margin bottom 8px to `.card .title`
+- [ ] set padding 16px top bottom and 8px left right to `.card .content`
+- [ ] set text align center to `.button-container`
+- [ ] set `button` as display block and margin 0 auto
+- [ ] set padding 8px top bottom and 24px left right to `button`
