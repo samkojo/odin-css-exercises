@@ -30,6 +30,12 @@ body {
   flex-direction: column;
   gap: inherit;
 }
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
 }
 
 .icon {
