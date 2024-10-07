@@ -36,6 +36,10 @@ body {
   align-items: center;
 }
 
+.header-text {
+  font-size: large;
+  font-weight: bold;
+  flex: 1;
 }
 
 .icon {
