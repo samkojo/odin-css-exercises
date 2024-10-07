@@ -24,6 +24,12 @@ body {
   padding: 16px;
   gap: 12px;
 }
+
+.modal > .content {
+  display: flex;
+  flex-direction: column;
+  gap: inherit;
+}
 }
 
 .icon {
