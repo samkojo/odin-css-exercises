@@ -35,3 +35,10 @@ img {
   max-width: 200px;
   text-align: center;
 }
+
+.grid-items {
+  display: flex;
+  justify-content: center;
+  gap: 26px 52px ;
+  flex-wrap: wrap;
+}
