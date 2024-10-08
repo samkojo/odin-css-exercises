@@ -50,6 +50,12 @@ ul {
   flex-shrink: 0;
   padding: 16px;
 }
+
+.list-cards {
+  padding: 48px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px 24px;
 }
 
 .card {
