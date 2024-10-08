@@ -43,3 +43,8 @@ ul a {
   justify-content: space-between;
   padding: 16px;
 }
+
+.left-links, .right-links {
+  display: flex;
+  gap: 16px;
+}
