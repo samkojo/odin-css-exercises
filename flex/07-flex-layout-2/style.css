@@ -31,6 +31,12 @@ ul {
   gap: 10px;
 }
 
+.sidebar ul a {
+  font-size: 24px;
+  text-decoration: none;
+  color: white;
+}
+
 .footer {
   height: 72px;
   background: #eee;
